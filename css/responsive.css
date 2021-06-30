@@ -11,24 +11,7 @@
     .wrapper-photo-mob {
         display: block;
     }
-    .wrapper {
-        flex-direction: column;
-    }
-    .container-wrapper {
-        display: block;
-        width: 100%;
-        max-width: 100%;
-        text-align: center;
-    }
-    .wrapper-photo-mob {
-        text-align: center;
-        margin-bottom: 41px;
-        margin-top: 33px;
-    }
-    .container-wrapper-disc {
-        padding-left: 23px;
-        padding-right: 23px;
-    }
+    .wrapper {}
     .container-wrapper-title > h1 {
         margin-bottom: 25px;
     }
